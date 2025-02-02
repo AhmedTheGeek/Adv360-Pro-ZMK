@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LC(LS(LALT(DOWN)))"
+		],
+		"description": "LC(LS(LALT(DOWN)))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
