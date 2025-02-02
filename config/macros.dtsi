@@ -14,7 +14,7 @@ label = "macro_window_right";
 #binding-cells = <0>;
 bindings
     = <&macro_press &kp LSHFT &kp LCMD &kp LEFT_ALT>
-    , <&macro_tap &kp UP>
+    , <&macro_tap &kp RIGHT>
     , <&macro_release &kp LSHFT &kp LCMD &kp LEFT_ALT>
 ;
 };
