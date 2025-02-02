@@ -2,7 +2,7 @@ macro_window_down: macro_window_down{
 compatible = "zmk,behavior-macro";
 label = "macro_window_down";
 #binding-cells = <0>;
-bindings = <&kp LC(LS(LALT(DOWN)))>;
+bindings =<&hold LC LS LALT>, <&kp DOWN>;
 };
 macro_window_right: macro_window_right{
 compatible = "zmk,behavior-macro";
